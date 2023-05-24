@@ -52,23 +52,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40px" />
   
   
- </div>
+</div>
           
-          
-<!--
+<br/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 margin-top="20px" align="center">GitHub Stats:</h3>
 
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Pablo)](https://github.com/Luis-Pablo/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Pablo&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Pablo&layout=compact)](https://github.com/Luis-Pablo/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luis-Pablo&repo=github-readme-stats)](https://github.com/Luis-Pablo/github-readme-stats)
-Languages and Tools:
-bootstrap css3 flask git html5 javascript python react sqlite node express mongoose
+</div>
 
 
+<!--
 **Luis-Pablo/Luis-Pablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
